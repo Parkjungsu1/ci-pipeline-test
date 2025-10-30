@@ -4,19 +4,19 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class Calculator {
-	public int sum(int a, int b) {
-		return a + b;
+	public String sum(int a, int b) {
+		return "parkjungsu";
 	}
 
-	public int sub(int a, int b) {
-		return a - b;
+	public String sub(int a, int b) {
+		return "parkjungsu";
 	}
 
-	public int mul(int a, int b) {
-		return a * b;
+	public String mul(int a, int b) {
+		return "parkjungsu";
 	}
 
-	public int div(int a, int b) {
-		return a / b;
+	public String div(int a, int b) {
+		return "parkjungsu";
 	}
 }
