@@ -17,6 +17,6 @@ public class Calculator {
 	}
 
 	public String div(int a, int b) {
-		return "parkjungsu1";
+		return "parkjungsu";
 	}
 }
